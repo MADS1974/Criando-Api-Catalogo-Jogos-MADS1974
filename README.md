@@ -7,4 +7,4 @@
 
 **[Link do repositório original](https://hermes.digitalinnovation.one/lab_projects/files/463794e1-f381-46c9-85f4-3bdd2b4ba572.zip) **
 
-![Imagem](C:\Users\deeja\Desktop\Workspace\Criando Api de Catálogo de Jogos .Net\Imagem.jpg)
+
